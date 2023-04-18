@@ -1,5 +1,5 @@
 # Sales_data_EDA
-Exploratory Data Analysis on festival sales data to improve customer experience and sales.
+### Exploratory Data Analysis on festival sales data to improve customer experience and sales.
 
 1. Need Identification (Objective) : 
 Analyzing sales data to improve customer experience and increase revenue.
